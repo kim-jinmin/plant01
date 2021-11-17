@@ -3,6 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/K/Documents/GitHub/plant01/app/src/main/res/drawable-anydpi/setting.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/K/Documents/GitHub/plant01/app/src/main/res/layout/activity_login.xml" value="0.2046875" />
+        <entry key="..\:/Users/K/Documents/GitHub/plant01/app/src/main/res/layout/activity_main.xml" value="0.2046875" />
+        <entry key="..\:/Users/K/Documents/GitHub/plant01/app/src/main/res/layout/activity_register.xml" value="0.2046875" />
+        <entry key="..\:/Users/K/Documents/GitHub/plant01/app/src/main/res/layout/home_activity.xml" value="0.2046875" />
+        <entry key="..\:/Users/K/Documents/GitHub/plant01/app/src/main/res/layout/home_activity_recycler_item.xml" value="0.2046875" />
+        <entry key="..\:/Users/K/Documents/GitHub/plant01/app/src/main/res/layout/home_drawer.xml" value="0.2046875" />
+        <entry key="..\:/Users/K/Documents/GitHub/plant01/app/src/main/res/layout/home_item.xml" value="0.2046875" />
+        <entry key="..\:/Users/K/Documents/GitHub/plant01/app/src/main/res/layout/navigaton_bar.xml" value="0.2046875" />
+        <entry key="..\:/Users/K/Documents/GitHub/plant01/app/src/main/res/layout/post_post.xml" value="0.2558876811594203" />
+        <entry key="..\:/Users/K/Documents/GitHub/plant01/app/src/main/res/layout/post_write.xml" value="0.2558876811594203" />
+        <entry key="..\:/Users/K/Documents/GitHub/plant01/app/src/main/res/layout/store_activity_main.xml" value="0.2558876811594203" />
+        <entry key="..\:/Users/K/Documents/GitHub/plant01/app/src/main/res/layout/store_home.xml" value="0.2558876811594203" />
+        <entry key="..\:/Users/K/Documents/GitHub/plant01/app/src/main/res/layout/store_plant.xml" value="0.2558876811594203" />
+        <entry key="..\:/Users/K/Documents/GitHub/plant01/app/src/main/res/layout/store_recommendgoods.xml" value="0.33" />
+        <entry key="..\:/Users/K/Documents/GitHub/plant01/app/src/main/res/layout/store_store.xml" value="0.1" />
+        <entry key="..\:/Users/K/Documents/GitHub/plant01/app/src/main/res/menu/bottom_menu.xml" value="0.2046875" />
         <entry key="..\:/Users/user/Documents/GitHub/imageslider/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/user/Documents/GitHub/imageslider/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1" />
         <entry key="..\:/Users/user/Documents/GitHub/imageslider/app/src/main/res/drawable/ic_baseline_storefront_24.xml" value="0.1" />
@@ -59,6 +76,7 @@
       </map>
     </option>
   </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
