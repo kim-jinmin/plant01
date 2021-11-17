@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="#초보집사"
+        android:textAlignment="center"
+        />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="#인테리어"
+            android:textAlignment="center"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="#공기정화"
+            android:textAlignment="center"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="#다육식물"
+            android:textAlignment="center"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="#씨앗/모종"
+            android:textAlignment="center"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="#수경식물"
+            android:textAlignment="center"
+            />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="67dp"
+        android:layout_height="53dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/store_ic_plant_background"
+        tools:layout_editor_absoluteX="157dp"
+        tools:layout_editor_absoluteY="47dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="#관리용품"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="120dp"
+        tools:layout_editor_absoluteY="146dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="#선인장"
+        android:textAlignment="center"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="118dp" />
+
+    <ImageView
+        android:layout_width="67dp"
+        android:layout_height="53dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/store_ic_plant_background"
+        tools:layout_editor_absoluteX="186dp"
+        tools:layout_editor_absoluteY="30dp" />
+
+    <ImageView
+        android:layout_width="67dp"
+        android:layout_height="0dp"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/store_ic_plant_background" />
+
+    <ImageView
+        android:layout_width="67dp"
+        android:layout_height="53dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/store_ic_plant_background"
+        tools:layout_editor_absoluteX="81dp"
+        tools:layout_editor_absoluteY="19dp" />
+
+    <ImageView
+        android:layout_width="67dp"
+        android:layout_height="53dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/store_ic_plant_background"
+        tools:layout_editor_absoluteX="64dp"
+        tools:layout_editor_absoluteY="22dp" />
+
+    <ImageView
+        android:layout_width="67dp"
+        android:layout_height="53dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/store_ic_plant_background"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="75dp" />
+
+    <ImageView
+        android:layout_width="67dp"
+        android:layout_height="53dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/store_ic_plant_background"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="89dp" />
+
+    <ImageView
+        android:id="@+id/Beginner"
+        android:layout_width="67dp"
+        android:layout_height="53dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/store_ic_plant_background"
+        tools:layout_editor_absoluteX="-1dp"
+        tools:layout_editor_absoluteY="65dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
