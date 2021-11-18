@@ -11,4 +11,6 @@
         android:layout_height="match_parent"
         app:menu="@menu/drawer_menu"
         android:layout_gravity="start"/>
+
+    //ㄴㅇㄴㄹㄴㅇ
 </androidx.drawerlayout.widget.DrawerLayout>
