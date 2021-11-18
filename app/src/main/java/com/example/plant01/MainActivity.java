@@ -6,8 +6,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-//커밋확인용 주석ㅇㅇ
-//두번째 확인용
+
 
 public class MainActivity extends AppCompatActivity
 {
